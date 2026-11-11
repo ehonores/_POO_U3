@@ -24,8 +24,3 @@ Aplicación desarrollada en Java bajo el patrón arquitectónico **Modelo-Vista-
 
 ---
 
-## Diagrama de Clases (UML)
-
-<p align="center">
-  <img src="diagrama.png" alt="Diagrama de Clases POO" width="700">
-</p>
